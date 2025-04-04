@@ -1,7 +1,7 @@
-# Matheus Rizzati
+![Header](https://github.com/matheusrizzati/matheusrizzati/blob/main/header.png)
 ### Desenvolvedor Full Stack & Líder de Projetos
 
-## 👋 Sobre Mim
+## Sobre Mim
 Desenvolvedor Full Stack com foco em soluções SaaS e Inteligência Artificial. Atuo na interface entre tecnologia e negócios, implementando soluções escaláveis e inovadoras. Comprometido com metodologias ágeis e aprendizado contínuo para entregar produtos de alto impacto.
 
 ## 🚀 Experiência
