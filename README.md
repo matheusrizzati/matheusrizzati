@@ -25,7 +25,6 @@ Desenvolvedor Full Stack com foco em soluções SaaS e Inteligência Artificial.
   - Digitalização de processos manuais para aumentar eficiência
 
 ## 💻 Stack Tecnológica
-w
 ### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
