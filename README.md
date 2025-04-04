@@ -25,33 +25,33 @@ Desenvolvedor Full Stack com foco em soluções SaaS e Inteligência Artificial.
   - Digitalização de processos manuais para aumentar eficiência
 
 ## 💻 Stack Tecnológica
-
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+w
+### Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ## 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrizzati&show_icons=true&theme=dracula)](https://github.com/matheusrizzati)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrizzati&layout=compact&theme=dracula)](https://github.com/matheusrizzati)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrizzati&show_icons=true&theme=dracula)](https://github.com/matheusrizzati) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrizzati&layout=compact&theme=dracula)](https://github.com/matheusrizzati)
 
 ## 🔧 Projetos Destacados
-
-[![SaaS IA](https://github-readme-stats.vercel.app/api/pin/?username=matheusrizzati&repo=saas-ia-atendimento&theme=dark)](https://github.com/matheusrizzati/saas-ia-atendimento)
-[![Sistema Gestão](https://github-readme-stats.vercel.app/api/pin/?username=matheusrizzati&repo=sistema-gestao-jatoba&theme=dark)](https://github.com/matheusrizzati/sistema-gestao-jatoba)
-
-## 🧠 Contribuições
-
-![Snake animation](https://github.com/matheusrizzati/matheusrizzati/blob/output/github-contribution-grid-snake.svg)
+[![SaaS IA](https://github-readme-stats.vercel.app/api/pin/?username=matheusrizzati&repo=prova291124&theme=dark)](https://github.com/matheusrizzati/prova291124)
 
 ## 📚 Formação
 - **Sistemas de Informação** - Centro Educacional de Barretos (Cursando)
