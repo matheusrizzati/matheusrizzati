@@ -1,28 +1,8 @@
 ![Header](https://github.com/matheusrizzati/matheusrizzati/blob/main/header.png)
-### Desenvolvedor Full Stack & Líder de Projetos
+### Desenvolvedor Full Stack
 
 ## Sobre Mim
 Desenvolvedor Full Stack com foco em soluções SaaS e Inteligência Artificial. Atuo na interface entre tecnologia e negócios, implementando soluções escaláveis e inovadoras. Comprometido com metodologias ágeis e aprendizado contínuo para entregar produtos de alto impacto.
-
-## 🚀 Experiência
-
-- **R2DA** - *Líder de Projetos* (Outubro 2024 - Presente)
-  - Gerenciamento de múltiplos projetos técnicos alinhados às necessidades de negócio
-  - Implementação de soluções de IA em produtos SaaS
-  - Aplicação de metodologias ágeis (Scrum/Kanban) para entregas contínuas
-  - Definição estratégica e priorização de backlog
-
-- **R2DA** - *Estagiário em Análise de Negócios* (Agosto 2023 - Outubro 2024)
-  - Levantamento e análise de requisitos para otimização de processos
-  - Interface entre clientes e desenvolvedores
-  - Validação de funcionalidades e garantia de qualidade
-  - Apoio na priorização de backlog baseada em dados
-
-- **Jatobá Móveis Rústicos** - *Assistente de Gerência* (Agosto 2021 - Julho 2023)
-  - Implementação de melhorias operacionais nos processos de gestão e vendas
-  - Atendimento e suporte ao cliente do primeiro contato ao pós-venda
-  - Organização e controle de demandas da equipe
-  - Digitalização de processos manuais para aumentar eficiência
 
 ## 💻 Stack Tecnológica
 ### Frontend
@@ -48,12 +28,6 @@ Desenvolvedor Full Stack com foco em soluções SaaS e Inteligência Artificial.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
-
-## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusrizzati&show_icons=true&theme=dracula)](https://github.com/matheusrizzati) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrizzati&layout=compact&theme=dracula)](https://github.com/matheusrizzati)
-
-## 🔧 Projetos Destacados
-[![SaaS IA](https://github-readme-stats.vercel.app/api/pin/?username=matheusrizzati&repo=prova291124&theme=dark)](https://github.com/matheusrizzati/prova291124)
 
 ## 📚 Formação
 - **Sistemas de Informação** - Centro Educacional de Barretos (Cursando)
